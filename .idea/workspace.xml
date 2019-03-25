@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93fbd8b2-9c56-44c1-8702-6ba22fe32cb3" name="Default Changelist" comment="" />
+    <list default="true" id="93fbd8b2-9c56-44c1-8702-6ba22fe32cb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="285">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -30,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="435">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#132#133#0" expanded="true" />
@@ -63,6 +67,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -77,6 +84,7 @@
     <option name="width" value="640" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -115,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553528561149" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553528961572" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,6 +167,18 @@
   </component>
   <component name="TestHistory">
     <history-entry file="All_in_com_codeclan_example_simple_classes_homework_test - 2019.03.25 at 15h 42m 26s.xml">
+      <configuration name="All in com.codeclan.example.simple_classes_homework.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_simple_classes_homework_test - 2019.03.25 at 15h 46m 57s.xml">
+      <configuration name="All in com.codeclan.example.simple_classes_homework.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_simple_classes_homework_test - 2019.03.25 at 15h 47m 08s.xml">
+      <configuration name="All in com.codeclan.example.simple_classes_homework.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_simple_classes_homework_test - 2019.03.25 at 15h 47m 15s.xml">
+      <configuration name="All in com.codeclan.example.simple_classes_homework.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_simple_classes_homework_test - 2019.03.25 at 15h 49m 11s.xml">
       <configuration name="All in com.codeclan.example.simple_classes_homework.test" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -210,8 +230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="435">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#132#133#0" expanded="true" />
@@ -222,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="285">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>

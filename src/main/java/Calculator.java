@@ -10,4 +10,13 @@ public class Calculator {
     public int add()
     {return this.number1 + this.number2;}
 
+    public int subtract()
+    {return this.number1 - this.number2;}
+
+    public int multiply()
+    {return this.number1 * this.number2;}
+
+    public int divide()
+    {return this.number1 / this.number2;}
+
 }
